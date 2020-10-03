@@ -42,8 +42,8 @@ function init() {
 			<a href="/"><img class="avatar" src="https://cdn.jsdelivr.net/gh/sunpma/goIndex/images/icon.png"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://sunpma.com" target="_blank">博客</a></li>
-					<li class="menu_li"><a href="https://coffee.sunpma.com" target="_blank">导航</a></li>
+					<li class="menu_li"><a href="https://blog.majianyu.eu.org" target="_blank">博客</a></li>
+					<li class="menu_li"><a href="https://music.majianyu.eu.org" target="_blank">网抑云</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
